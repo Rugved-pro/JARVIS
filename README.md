@@ -6,7 +6,10 @@ A fully local, low-latency voice assistant powered by:
 - **LLM Brain**: Ollama (`llama3.1:latest`)
 - **Text-to-Speech**: Piper TTS
 
-Runs on a machine with an **RTX 4050 (6GB VRAM)** — the LLM lives on the GPU, everything else runs on CPU.
+## Objective
+**This project aims to experiment just how seamless SLM integration can be and how much power can SLMs safely handle.
+The challenge is the efficient and smooth operation of SLMs in normal laptops
+Runs on a machine with an **RTX 4050 (6GB VRAM)** — the LLM lives on the GPU, everything else runs on CPU.**
 
 ---
 
