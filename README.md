@@ -1,4 +1,4 @@
-# JARVIS — Local Voice-Activated AI Assistant
+# JARVIS — Local Voice-Activated AI Assistant (Ongoing)
 
 A fully local, low-latency voice assistant powered by:
 - **Wake Word**: openWakeWord (`"Hey Jarvis"`) — no API key needed!
